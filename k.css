@@ -1,0 +1,8 @@
+.hidelogin {
+  transform: translateX(-400%);
+}
+.hidesignup {
+  transform: translateX(400%);
+  background: url("img/images (6).jpeg") center;
+  background: -webkit-linear-gradient(left, #fcfbfc, #a2faae);
+}
